@@ -34,7 +34,7 @@
 
 /*EDIT THIS TO CHANGE THE FRIENDS ICON IMAGE, I WOULD RECOMMEND USING IMGUR TO HOST YOUR IMAGE*/
 [class~=guilds-wrapper] [class~=guilds] [class~=friends-icon] {
-    background-image: url(https://s-media-cache-ak0.pinimg.com/originals/26/64/b5/2664b58e5882ff735aef9019d7f2bd3e.jpg)
+    background-image: url(https://avatarfiles.alphacoders.com/756/75602.jpg)
 }
 
 
@@ -45,7 +45,7 @@
     width: 50px;
     height: 50px;
     content: '';
-    background-size: 200%;    /*how zoomed in or zoomed out your image is*/
+    background-size: 100%;    /*how zoomed in or zoomed out your image is*/
     background-repeat: no-repeat;
     background-position: top left;    /*the positioning of your image in the icon, for example "top left" uses the top left of the image*/
 }
