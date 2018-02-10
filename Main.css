@@ -1,4 +1,4 @@
-//EDITED FOR PERSONAL USE 
+//EDIT FOR PERSONAL USE 
 
 //META{"name":"NotAnotherAnimeThemeSCSL","description":"Anime theme made by WhatDaPuck#2080 | Single Column Server List","author":"WhatDaPuck#2080","version":"1.0"}*//{}
 
@@ -16,7 +16,7 @@
 }
 
 [class~=create-guild-container] [class~=action][class~=create]:hover [class~=btn-primary] {
-    background-color: #510f63 !important;
+    background-color: #1d6586 !important;
 }
 
 .create-guild-container .form-actions .btn-default {
