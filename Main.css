@@ -1,13 +1,12 @@
-//EDITED FOR PERSONAL USE
+//META{"name":"CyberGod's modified version NotAnotherAnimeThemeSCSL","description":"Anime theme made by WhatDaPuck#2080 | Single Column Server List, make sure you're up to date at https://goo.gl/dcCBQd","author":"WhatDaPuck#2080","version":"1.0"}*//{}
 
-META{"name":"NotAnotherAnimeTheme","description":"Anime theme made by WhatDaPuck#2080, make sure you're up to date at https://goo.gl/dcCBQd","author":"WhatDaPuck#2080","version":"2.2"}*//{}
+/*EDITED FOR PERSONAL USE
 
-
+/*      THIS THEME IS THE SAME AS THE ORIGINAL EXCEPT IT HAS A SINGLE COLUMN FOR SERVERS INSTEAD OF TWO                                                 */
+/*      IF YOU WANT THE ORIGINAL GO TO THIS LINK -> https://github.com/WhatDaPuck/NotAnotherAnimeTheme/blob/master/NotAnotherAnimeTheme.theme.css       */
 
 
 /*To make editing this theme easier I recommend using Notepad++ , you can download it for free here - https://notepad-plus-plus.org/download/ */
-
-
 
 /*Any images you use MUST end with .jpg or .png or any other image extension*/
 /*This is NOT a valid link, https://imgur.com/a/ycjL2 */
@@ -843,7 +842,7 @@ META{"name":"NotAnotherAnimeTheme","description":"Anime theme made by WhatDaPuck
     font-family: SourceCodePro, Whitney, Helvetica Neue, Helvetica, Arial, sans-serif;
     padding: 0 4px;
     border-radius: 2px;
-    color: #510f63;
+    color: #b22fd6;
     background-color: rgba(0, 0, 0, 0);
 }
 
@@ -1177,7 +1176,7 @@ META{"name":"NotAnotherAnimeTheme","description":"Anime theme made by WhatDaPuck
 }
 
 [class~=messages] a {
-    color: #510f63 !important;
+    color: #156691 !important;
 }
 
 [class~=guilds-add] {
@@ -5616,7 +5615,7 @@ META{"name":"NotAnotherAnimeTheme","description":"Anime theme made by WhatDaPuck
 }
 
 #pubs-header {
-    background-color: #510f63 !important;
+    background-color: #9c38b7 !important;
 }
 
 [class~=form] [class~=btn-primary]:hover {
@@ -7473,7 +7472,7 @@ textarea {
 .body-3rkFrF {
     background-color: rgba(0,0,0,0.9);
     padding: 20px;
-    border-bottom: 1px solid #510f63;
+    border-bottom: 1px solid #b042ce;
 }
 
 .footer-2J5zqP {
@@ -7631,8 +7630,4 @@ textarea {
 
 .theme-dark .typing-3eiiL_ {
     background-color: rgba(0, 0, 0, 0);
-}
-
-.theme-dark .chat>.content .messages .message-group .comment .markup{
-	color: rgba(144, 83, 160);
 }
