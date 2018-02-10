@@ -3087,7 +3087,7 @@
 }
 
 [class~=messages] [class~=message-group] [class~=message-send-failed] [class~=markup] a {
-    color: rgba(81, 15, 99, .5) !important;
+    color: rgba(144, 83, 160, .5) !important;
 }
 
 [class~=search-popout] [class~=date-picker] [class~=date-picker-hint],
@@ -3659,7 +3659,7 @@
 }
 
 [class~=messages] [class~=markup] [class~=highlight] {
-    background-color: rgba(81, 15, 99, .5) !important;
+    background-color: rgba(144, 83, 160, .5) !important;
 }
 
 [class~=title-wrap] {
@@ -4158,7 +4158,7 @@
 }
 
 [class~=channel-textarea-guard] button:hover {
-    background: #510f63 !important;
+    background: #864b96 !important;
 }
 
 .user-popout .footer,
@@ -4371,7 +4371,7 @@
 }
 
 .friends-table .messages .message-group .message-send-failed .markup a {
-    color: rgba(81, 15, 99, .5) !important;
+    color: rgba(144, 83, 160, .5) !important;
 }
 
 .friends-table {
@@ -7526,19 +7526,19 @@ textarea {
 }
 
 [class~=markup] pre {
-    border-top-color: rgba(81, 15, 99, .5) !important;
+    border-top-color: rgba(144, 83, 160, .5) !important;
 }
 
 [class~=markup] pre {
-    border-right-color: rgba(81, 15, 99, 0.5) !important;
+    border-right-color: rgba(144, 83, 160, 0.5) !important;
 }
 
 [class~=markup] pre {
-    border-bottom-color: rgba(81, 15, 99, 0.5) !important;
+    border-bottom-color: rgba(144, 83, 160) !important;
 }
 
 [class~=markup] pre {
-    border-left-color: rgba(81, 15, 99, 0.5) !important;
+    border-left-color: rgba(144, 83, 160, 0.5) !important;
 }
 
 .theme-dark .private-channel-call.minimum .private-channel-call-actions .center {
@@ -7631,4 +7631,8 @@ textarea {
 
 .theme-dark .typing-3eiiL_ {
     background-color: rgba(0, 0, 0, 0);
+}
+
+.theme-dark .chat>.content .messages .message-group .comment .markup{
+	color: rgba(144, 83, 160);
 }
